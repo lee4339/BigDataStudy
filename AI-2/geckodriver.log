@@ -859,3 +859,92 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:12393/devtools/browser/3438b9cd-33fc-47bf-b5ef-6f22fee26fae
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.naver.com."
 1662377181126	Marionette	INFO	Stopped listening on port 12402
+1664527442280	geckodriver	INFO	Listening on 127.0.0.1:3611
+1664527445376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofileiYh2k7"
+1664527445785	Marionette	INFO	Marionette enabled
+1664527445790	Marionette	INFO	Listening on port 3621
+Read port: 3621
+WebDriver BiDi listening on ws://127.0.0.1:3612
+1664527445946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofileiYh2k7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3612/devtools/browser/2cae3765-b200-4720-ac50-b7a5d85cc648
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664527627688	geckodriver	INFO	Listening on 127.0.0.1:3666
+1664527630742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofiledG3twZ"
+1664527631065	Marionette	INFO	Marionette enabled
+1664527631069	Marionette	INFO	Listening on port 3676
+Read port: 3676
+WebDriver BiDi listening on ws://127.0.0.1:3667
+1664527631179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofiledG3twZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3667/devtools/browser/45ef509c-f609-4eaa-abc5-254d99131b57
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529273405	Marionette	INFO	Stopped listening on port 3676
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofile90TVbg"
+1664529255539	Marionette	INFO	Marionette enabled
+1664529255544	Marionette	INFO	Listening on port 3878
+Read port: 3878
+WebDriver BiDi listening on ws://127.0.0.1:3869
+1664529255682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofile90TVbg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3869/devtools/browser/b345c386-9afc-4bbe-a0bd-6e70a57fa8be
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529524548	Marionette	INFO	Stopped listening on port 3878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilebMeXku"
+1664529393574	Marionette	INFO	Marionette enabled
+1664529393578	Marionette	INFO	Listening on port 3922
+Read port: 3922
+WebDriver BiDi listening on ws://127.0.0.1:3913
+1664529393716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilebMeXku\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3913/devtools/browser/4a990eae-bc28-4005-8693-9ba2243927fd
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529526680	Marionette	INFO	Stopped listening on port 3922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664529671757	geckodriver	INFO	Listening on 127.0.0.1:4728
+1664529674788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofileRhLLL4"
+1664529675177	Marionette	INFO	Marionette enabled
+1664529675184	Marionette	INFO	Listening on port 4738
+Read port: 4738
+WebDriver BiDi listening on ws://127.0.0.1:4729
+1664529675300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofileRhLLL4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4729/devtools/browser/32155c98-991b-4c33-a13d-9953dc1eb242
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529852120	Marionette	INFO	Stopped listening on port 4738
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "4814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilepTTswP"
+1664529787831	Marionette	INFO	Marionette enabled
+1664529787836	Marionette	INFO	Listening on port 4823
+WebDriver BiDi listening on ws://127.0.0.1:4814
+Read port: 4823
+1664529788070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilepTTswP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4814/devtools/browser/e3f69085-23d6-449a-a044-a1ac6566689e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529851972	Marionette	INFO	Stopped listening on port 4823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28424, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+nette enabled
+1664529792921	Marionette	INFO	Listening on port 4857
+Read port: 4857
+WebDriver BiDi listening on ws://127.0.0.1:4836
+1664529793048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofileMfDh1l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4836/devtools/browser/9b060fc4-f2d8-4fc4-9154-d1565b281789
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529851832	Marionette	INFO	Stopped listening on port 4857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "4869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilettjWyT"
+1664529797972	Marionette	INFO	Marionette enabled
+1664529797979	Marionette	INFO	Listening on port 4891
+WebDriver BiDi listening on ws://127.0.0.1:4869
+Read port: 4891
+1664529798195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\home\\AppData\\Local\\Temp\\rust_mozprofilettjWyT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4869/devtools/browser/3a98e760-ddee-42d9-9191-fcce2b5c6ede
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664529850573	Marionette	INFO	Stopped listening on port 4891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
