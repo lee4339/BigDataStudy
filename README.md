@@ -1,2 +1,2 @@
 # BigDataBasic
-BigDataBasic-python기초 수업내용
+BigData 및 AI 수업, 프로젝트
